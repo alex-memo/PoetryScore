@@ -8,7 +8,7 @@ import java.util.*;
 public class Solution {
 	public static void main(String[] args) throws IOException{
 	Scanner in = new Scanner(System.in);
-	Scanner inFile= new Scanner(new File("poem1.txt"));
+	Scanner inFile= new Scanner(new File("poem1.txt"));//can also try poem 2
 	int score=0;
 	int i=0;
 	int syllable=0;
